@@ -1,0 +1,15 @@
+{
+  "name": "issue-example",
+  "version": "1.0.0",
+  "description": "Repro for isomorphic-git issue #1908",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "example": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "isomorphic-git": "1.25.8"
+  }
+}
